@@ -1,0 +1,16 @@
+body{
+    overflow-x: hidden;
+  }
+  
+  p{
+    font-size: 28px;
+  }
+  
+  .title_2{
+    transform: translateX(-120%);
+    transition: 2.3s ease-in;
+  }
+  .title_3{
+    transform: translateX(120%);
+    transition: 2.3s ease-in;
+  }
